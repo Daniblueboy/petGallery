@@ -2,78 +2,78 @@
 
 let pets = [{
     name: "Parrot",
-    petImg: "../img/9.jpg",
+    petImg: "./img/9.jpg",
     price:20,
 
 },
 
 {
     name: "Cat",
-    petImg: "../img/2.jpg",
+    petImg: "./img/2.jpg",
     price:20,
     
 },
 
 {
     name: "Love Puppies",
-    petImg: "../img/3.jpg",
+    petImg: "./img/3.jpg",
     price:20,
     
 },
 
 {
     name: "Bird",
-    petImg: "../img/4.jpg",
+    petImg: "./img/4.jpg",
     price:20,
     
 },
 
 {
     name: "Puppy",
-    petImg: "../img/5.jpg",
+    petImg: "./img/5.jpg",
     price:20,
     
 },
 {
     name: "Dog",
-    petImg: "../img/6.jpg",
+    petImg: "./img/6.jpg",
     price:20,
     
 },
 {
     name: "Puppy",
-    petImg: "../img/7.jpg",
+    petImg: "./img/7.jpg",
     price:20,
     
 },
 {
     name: "Rabbit",
-    petImg: "../img/8.jpg",
+    petImg: "./img/8.jpg",
     price:20,
     
 },
 {
     name: "Dog",
-    petImg: "../img/15.jpg",
+    petImg: "./img/15.jpg",
     price:20,
     
 },
 {
     name: "Cat",
-    petImg: "../img/11.jpg",
+    petImg: "./img/11.jpg",
     price:20,
     
 },
 {
     name: "Dog",
-    petImg: "../img/12.jpg",
+    petImg: "./img/12.jpg",
     price:20,
     
 },
 
 {
     name: "Dog",
-    petImg: "../img/16.jpg",
+    petImg: "./img/16.jpg",
     price:20,
     
 }]
