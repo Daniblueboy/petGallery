@@ -1,15 +1,17 @@
-body::before{
+/* body::before{
     display:block;
     content:"";
     height: 30px;
-}
+} */
 
 .heroSec{
     background-image: url(../img/pet.jpg);
     background-repeat: no-repeat;
     background-size: cover;
-    /* object-fit: cover; */
-    /* background-position: 50% 50%; */
-    background-repeat: no-repeat;
     padding: 180px 0;
+}
+
+html{
+    border: 2px solid red !important;
+    /* margin-bottom: -50px; */
 }
